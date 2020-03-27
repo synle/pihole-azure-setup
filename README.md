@@ -4,12 +4,15 @@ DNS to block ads
 #### Installation
 https://github.com/pi-hole/pi-hole/#one-step-automated-install
 
-#### Whitelist
+#### Blacklist and whitelist
+More general whitelist: https://github.com/anudeepND/whitelist
+
+##### Manual Whitelist
 ```
 pihole -w click.linksynergy.com
 ```
 
-#### Blacklist
+##### Manual Blacklist
 ```
 pihole -b click.linksynergy.com
 ```
