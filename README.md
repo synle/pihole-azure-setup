@@ -37,3 +37,12 @@ Family protection
 1.1.1.1
 1.0.0.1
 ```
+
+
+##### DNS over HTTPS / TLS
+```
+dns.adguard.com
+dns-family.adguard.com 
+dns.google
+one.one.one.one
+```
