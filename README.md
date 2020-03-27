@@ -17,11 +17,14 @@ pihole -b click.linksynergy.com
 
 #### Other public DNS
 ##### Adguard
+###### Default
 ```
-Default
 176.103.130.130
 176.103.130.131
-Family protection
+```
+
+###### Family protection
+```
 176.103.130.132
 176.103.130.134
 ```
