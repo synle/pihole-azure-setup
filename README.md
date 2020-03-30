@@ -52,3 +52,13 @@ dns-family.adguard.com
 dns.google
 one.one.one.one
 ```
+
+
+##### DNS Test with nslookup
+```
+# bad host with ad
+nslookup yieldmanager.com 1.1.1.1
+
+# good host
+nslookup google.com 1.1.1.1
+```
