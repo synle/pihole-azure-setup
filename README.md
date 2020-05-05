@@ -39,9 +39,22 @@ pihole -b click.linksynergy.com
 ```
 
 ##### Cloudflare
+###### Public DNS from Cloudflare
 ```
 1.1.1.1
 1.0.0.1
+```
+
+###### Malware Blocking Only from Cloudflare
+```
+1.1.1.2
+1.0.0.2
+```
+
+###### Malware and Adult Contentfrom Cloudflare
+```
+1.1.1.3
+1.0.0.3
 ```
 
 
