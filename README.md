@@ -51,7 +51,7 @@ pihole -b click.linksynergy.com
 1.0.0.2
 ```
 
-###### Malware and Adult Contentfrom Cloudflare
+###### Malware and Adult Content from Cloudflare
 ```
 1.1.1.3
 1.0.0.3
